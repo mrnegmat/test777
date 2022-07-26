@@ -1,0 +1,4 @@
+# Created by cloud-init v. 22.2-0ubuntu1~20.04.3 on Tue, 26 Jul 2022 14:45:00 +0000
+
+# User rules for master
+master ALL=(ALL) NOPASSWD:ALL
